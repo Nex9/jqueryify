@@ -10306,3 +10306,6 @@ if ( typeof noGlobal === strundefined ) {
 return jQuery;
 
 }));
+
+
+module.exports = window.jQuery;
